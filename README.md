@@ -46,6 +46,22 @@ O principal objetivo do projeto é transformar dados de Recursos Humanos em info
 
 O projeto é dividido em quatro páginas principais, cada uma com um objetivo específico de análise.
 
+### Visão Geral
+
+![Visão Geral](images/visao-geral.png)
+
+### Análise de Attrition
+
+![Análise de Attrition](images/attrition.png)
+
+### Análise de Funcionários
+
+![Análise de Funcionários](images/funcionarios.png)
+
+### Desempenho & Satisfação
+
+![Desempenho & Satisfação](images/desempenho-satisfacao.png)
+
 ---
 
 ## 🏠 1. Visão Geral
