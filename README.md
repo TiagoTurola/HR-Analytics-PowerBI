@@ -309,5 +309,11 @@ HR-Analytics/
 │   ├── funcionarios.png
 │   └── desempenho-satisfacao.png
 │
+├── backgrounds/
+│   ├── Overview.png
+│   ├── attrition.png
+│   ├── Employee.png
+│   └── performance&satisfaction.png
+│
 └── data/
-    └── README.md
+    └── Human_Resources.csv
